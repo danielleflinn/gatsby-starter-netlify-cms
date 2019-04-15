@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with Great Style
-image: /img/home-jumbotron.jpg
+image: /img/jo-lanta-654165-unsplash.jpg
 heading: Great coffee with Great Style
 subheading: 'Support sustainability while savoring a cup of rich, smooth coffee'
 mainpitch:
